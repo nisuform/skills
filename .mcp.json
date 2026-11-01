@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "nisuform": {
+      "type": "http",
+      "url": "https://mcp.nisuform.com/mcp"
+    }
+  }
+}

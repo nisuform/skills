@@ -1,0 +1,39 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "nisuform",
+  "description": "Official Nisuform plugin: add working forms to any website, verify webhooks, use the REST API and migrate from other form backends.",
+  "owner": {
+    "name": "Nisuform",
+    "email": "support@nisuform.com",
+    "url": "https://nisuform.com"
+  },
+  "plugins": [
+    {
+      "name": "nisuform",
+      "source": "./",
+      "description": "Add contact, waitlist and feedback forms to any website with Nisuform, the form backend that needs no server code. Skills for HTML, React, Next.js, Vue, Svelte and Astro forms, signed webhooks, the REST API and migrating from Formspree, Web3Forms, FormSubmit or Netlify Forms, plus the Nisuform MCP server to create forms and read submissions from Claude.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Nisuform",
+        "email": "support@nisuform.com",
+        "url": "https://nisuform.com"
+      },
+      "homepage": "https://nisuform.com/docs/ai-agents",
+      "repository": "https://github.com/nisuform/skills",
+      "license": "MIT",
+      "category": "development",
+      "keywords": [
+        "forms",
+        "form-backend",
+        "contact-form",
+        "html-forms",
+        "webhooks",
+        "spam-protection",
+        "react",
+        "nextjs",
+        "astro",
+        "mcp"
+      ]
+    }
+  ]
+}
